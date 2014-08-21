@@ -1,0 +1,3 @@
+rmdir  /s ipch
+del socket_test.sdf
+rmdir  /s Debug
